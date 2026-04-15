@@ -52,3 +52,15 @@ Aberto a projetos, colaborações e oportunidades
 
 📞 +55 11 95224-7141 📧 Email 🔗 LinkedIn 📘 GitHub 📄 Currículo PDF
 © 2025 Marcos Feitosa · Analista de Dados · Feito com 💙 e muito café
+
+
+
+Estrutura Gerada
+portfolio/
+├── index.html       ← HTML limpo, sem CSS/JS inline
+├── style.css        ← Todos os estilos, variáveis, animações e responsividade
+├── script.js        ← Starfield, toggleCat(), Intersection Observers
+├── README.md        ← Documentação completa com badges e instruções
+└── assets/
+    └── images/
+        └── .gitkeep ← Pasta reservada para a foto de perfil
